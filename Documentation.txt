@@ -1,0 +1,10 @@
+**Requirements Installation**
+
+--> Python
+--> django
+--> djangorestframework
+
+
+# Start The Project
+
+--> django-admin startproject music_room
