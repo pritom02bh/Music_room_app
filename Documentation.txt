@@ -7,4 +7,6 @@
 
 # Start The Project
 
---> django-admin startproject music_room
+--> django-admin startproject music_room (to create the project)
+--> django-admin startapp api	(to create api)
+-->
